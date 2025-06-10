@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I thrive at the intersection of **web development*
 ## 📊 GitHub Stats  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanaapathann&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
+### 📫 How to reach me
+- Email: sanashraf2725@gmail.com
+- LinkedIn: [Sana Pathan](https://www.linkedin.com/in/sana-pathan-434804254/)
+  
 ### ✍️ Dev Quote  
 _"You don’t learn to walk by following rules. You learn by doing, and by falling over."_ – Richard Branson  
 
