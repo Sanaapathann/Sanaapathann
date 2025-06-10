@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Sana Pathan! 👋  
 
-<!--
-**Sanaapathann/Sanaapathann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I thrive at the intersection of **web development**, **modern APIs**, and **interactive user experiences**, where **functionality meets aesthetics**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-%2300C7B7.svg?style=flat&logo=pydantic&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja2&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=flat&logo=requests&logoColor=white) 
+
+
+## 📊 GitHub Stats  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sanaapathann&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+### ✍️ Dev Quote  
+_"You don’t learn to walk by following rules. You learn by doing, and by falling over."_ – Richard Branson  
+
+---  
+[![](https://visitcount.itsvg.in/api?id=Sanaapathann&icon=0&color=0)](https://visitcount.itsvg.in)  
