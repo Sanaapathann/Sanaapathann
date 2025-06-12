@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 - 🔗 [**Linkado**](https://github.com/Sanaapathann/Linkado)  
   Personal Linktree-style web app using Flask, session auth, and Jinja2 templating.
 
-- 📚 [**Mindrift**](https://github.com/Sanaapathann/Mindrift)   
-  Mindrift is a real-time multiplayer psychology-based game built with Flask and Flask-SocketIO.
-
 - 🐍 [**Pythoncovered**](https://github.com/Sanaapathann/Pythoncovered)  
   A “100 Python Projects in 100 Days” challenge, covering core Python to real-world apps.
 
