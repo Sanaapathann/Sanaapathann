@@ -19,16 +19,6 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 
 ---
 
-## 🚀 Projects *(In progress)*
-
-- 🔗 [**Linkado**](https://github.com/Sanaapathann/Linkado)  
-  Personal Linktree-style web app using Flask, session auth, and Jinja2 templating.
-
-- 🐍 [**Pythoncovered**](https://github.com/Sanaapathann/Pythoncovered)  
-  A “100 Python Projects in 100 Days” challenge, covering core Python to real-world apps.
-
----
-
 ## 👩‍💻 About Me
 
 CS grad from Savitribai Phule Pune University. Currently focused on Python, FastAPI, and real-world backend dev.  
