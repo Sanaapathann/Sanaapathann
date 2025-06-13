@@ -30,7 +30,7 @@ Learning by building, sharing everything I learn along the way.
 
 | Streak | Top Languages |
 |--------|---------------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanaapathann&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact) |
+| ![](https://streak-stats.demolab.com/?user=Sanaapathann&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact) |
 
 ---
 
