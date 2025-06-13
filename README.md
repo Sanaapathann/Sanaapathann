@@ -24,13 +24,16 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 CS grad from Savitribai Phule Pune University. Currently focused on Python, FastAPI, and real-world backend dev.  
 Learning by building, sharing everything I learn along the way.
 
+![Snake gif](https://github.com/Sanaapathann/Sanaapathann/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
-| Streak | Top Languages |
-|--------|---------------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanaapathann&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact) |
+![Streak](https://streak-stats.demolab.com/?user=Sanaapathann&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanaapathann&theme=github-dark)
+
+
 
 ---
 
