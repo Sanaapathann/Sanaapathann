@@ -32,6 +32,7 @@ Learning by building, sharing everything I learn along the way.
 ![Streak](https://streak-stats.demolab.com/?user=Sanaapathann&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanaapathann&theme=github-dark)
+![Snake animation](https://github.com/Sanaapathann/Sanaapathann/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
