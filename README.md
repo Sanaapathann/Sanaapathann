@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 CS grad from Savitribai Phule Pune University. Currently focused on Python, FastAPI, and real-world backend dev.  
 Learning by building, sharing everything I learn along the way.
 
-![Snake gif](https://github.com/Sanaapathann/Sanaapathann/blob/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 📈 GitHub Stats
@@ -48,4 +48,4 @@ _"You don’t learn to walk by following rules. You learn by doing, and by falli
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Sanaapathann&icon=0&color=0)](https://visitcount.itsvg.in)
+
