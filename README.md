@@ -29,10 +29,19 @@ Learning by building, sharing everything I learn along the way.
 
 ## 📈 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com/?user=Sanaapathann&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanaapathann&theme=github-dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Sanaapathann&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 ![Snake animation](https://github.com/Sanaapathann/Sanaapathann/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
