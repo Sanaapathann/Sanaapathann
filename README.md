@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 
 ## 👩‍💻 About Me
 
-CS grad from Savitribai Phule Pune University. Currently focused on Python, FastAPI, and real-world backend dev.  
+CS grad from India. Currently focused on Python, FastAPI, and real-world backend dev.  
 Learning by building, sharing everything I learn along the way.
 
 
