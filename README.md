@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 
 CS grad from India. Currently focused on Python, FastAPI, and real-world backend dev.  
 Learning by building, sharing everything I learn along the way.
-
+### 🇵🇸 I stand with Palestine
+I believe in freedom, justice, and human rights for all. #FreePalestine
 
 ---
 
