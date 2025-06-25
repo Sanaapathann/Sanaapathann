@@ -22,12 +22,11 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 I believe in freedom, justice, and human rights for all. #FreePalestine
 
 ---
-## 📫 Reach Me  
+## Reach Me  
 - 📧 Email: sanashraf2725@gmail.com  
 - 🔗 LinkedIn: [Sana Pathan](https://www.linkedin.com/in/sana-pathan-434804254/)
 
----
-### ✍️ Quote I Like  
+### Quote I Like  
 _"You don’t learn to walk by following rules. You learn by doing, and by falling over."_ - Richard Branson  
 
 ---
