@@ -22,21 +22,6 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 I believe in freedom, justice, and human rights for all. #FreePalestine
 
 ---
-## GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Sanaapathann&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaapathann&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-![Snake animation](https://github.com/Sanaapathann/Sanaapathann/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 ## 📫 Reach Me  
 - 📧 Email: sanashraf2725@gmail.com  
 - 🔗 LinkedIn: [Sana Pathan](https://www.linkedin.com/in/sana-pathan-434804254/)
