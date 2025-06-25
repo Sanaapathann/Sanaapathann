@@ -4,7 +4,7 @@ Learning by building, sharing everything I learn along the way.
 Welcome to my GitHub profile! I’m exploring the intersection of **web development**, **modern APIs**, and **interactive user experiences** — where clean functionality meets thoughtful design.
 
 ---
-## 🛠️ Tech Stack  
+## Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat&logo=fastapi&logoColor=white)
@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m exploring the intersection of **web developm
 I believe in freedom, justice, and human rights for all. #FreePalestine
 
 ---
-## 📈 GitHub Stats
+## GitHub Stats
 <table>
   <tr>
     <td>
