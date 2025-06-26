@@ -12,12 +12,9 @@ Welcome to my GitHub! I’m exploring the intersection of 𝘄𝗲𝗯 𝗱𝗲�
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)<br>
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-%2300C7B7.svg?style=flat&logo=pydantic&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-%23B41717.svg?style=flat&logo=jinja2&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-%23000000.svg?style=flat&logo=requests&logoColor=white)
 
 #### **𝗥𝗲𝗮𝗰𝗵 𝗠𝗲**  ✉️
 
