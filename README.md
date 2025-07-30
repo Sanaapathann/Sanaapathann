@@ -18,7 +18,9 @@ Welcome to my GitHub! I’m exploring the intersection of 𝘄𝗲𝗯 𝗱𝗲�
 
 ## 🐍 My GitHub Contribution Snake
 
-![Snake animation](https://github.com/sanaapathann/sanaapathann/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/sanaapathann/sanaapathann/blob/output/github-contribution-grid-snake.svg" width="600" />
+</p>
 
 
 #### **𝗥𝗲𝗮𝗰𝗵 𝗠𝗲**  ✉️
