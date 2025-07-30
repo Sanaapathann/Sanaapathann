@@ -1,4 +1,4 @@
-name: Generate Snake Contribution
+Generate Snake Contribution
 
 on:
   schedule:
@@ -12,14 +12,10 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: sanaapathann
+          github_user_name: Sanaapathann
           outputs: |
             dist/github-contribution-grid-snake.svg
-          svg_settings: |
-            theme: dark
-            color_snake: "#f97316"         # orange snake
-            color_dots: "#0f172a,#1e293b,#334155,#475569,#94a3b8"  # tailwind-like dark blue gradient
-            animation_duration: 6s
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Upload to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
