@@ -5,7 +5,7 @@ I learn by building and share everything I pick up along the way.
 
 Welcome to my GitHub! I’m exploring the intersection of 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗺𝗼𝗱𝗲𝗿𝗻 𝗔𝗣𝗜𝘀, and 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝘃𝗲 𝘂𝘀𝗲𝗿 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 - where 𝗰𝗹𝗲𝗮𝗻 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆 meets 𝘁𝗵𝗼𝘂𝗴𝗵𝘁𝗳𝘂𝗹 𝗱𝗲𝘀𝗶𝗴𝗻.
 
-#### **𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸**  💻🐍 
+#### **𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸**  💻
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
