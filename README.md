@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m exploring the intersection of 𝘄𝗲𝗯 𝗱𝗲�
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-#### **My GitHub Contribution Snake** 🐍 
+#### **My Github Contribution Snake**  ✉️ 🐍 
 
 <p align="center">
   <img src="https://github.com/sanaapathann/sanaapathann/blob/output/github-contribution-grid-snake.svg" width="600" />
